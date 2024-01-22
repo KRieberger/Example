@@ -1,0 +1,33 @@
+{
+    "editor.formatOnSave": true,
+    "[python]": {
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+    },
+    "[html]": {
+        "editor.suggest.insertMode": "replace",
+        "editor.formatOnType": true,
+        "editor.formatOnSave": true,
+        "editor.rulers": [
+            125
+        ],
+    },
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "cSpell.language": "en-CA",
+    "git.enableSmartCommit": true,
+    "redhat.telemetry.enabled": false,
+    "html.format.indentInnerHtml": true,
+    "cSpell.userWords": [
+        "Polytech",
+        "Rieberger"
+    ],
+    "diffEditor.ignoreTrimWhitespace": false,
+    "html.format.wrapLineLength": 125,
+    "workbench.colorTheme": "Default Dark Modern",
+    "editor.fontSize": 16,
+    "explorer.confirmDelete": false,
+    "debug.console.collapseIdenticalLines": false,
+}
