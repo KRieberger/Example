@@ -3,7 +3,7 @@
     "[python]": {
         "editor.formatOnType": true,
         "editor.rulers": [
-            80
+            79
         ],
     },
     "[html]": {
